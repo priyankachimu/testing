@@ -1,2 +1,2 @@
 print('priyanaka')
-print('name')
+print('age')
